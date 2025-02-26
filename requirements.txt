@@ -1,0 +1,5 @@
+diff_match_patch==20230430
+language_tool_python==2.8
+rich==13.7.1
+spacy==3.7.4
+pyspellchecker==0.4
